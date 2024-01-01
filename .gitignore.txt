@@ -1,1 +1,6 @@
 .gitignore file 
+
+ls -a (hidden file without git)
+
+
+
